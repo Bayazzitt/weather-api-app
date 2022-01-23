@@ -1,10 +1,31 @@
-# Lokasyon Bazlı Hava Durumu Uygulaması
+# → Lokasyon Bazlı Hava Durumu Uygulaması ←
 
-## KODU ÇALIŞTIRMAK İÇİN
+> ### Proje Link 📎 → 
+
+<br>
+
+>↓ Uygulama İçi Görsel ↓ 🖼
+
+
+
+<br>
+
+>↓ Kullanılan Araçlar ↓ 🛠
+
+* HTML
+* CSS
+* REACT.js
+
+<br>
+
+>↓ Kurulum ↓ 🧱
 
 ```
 npm install
 npm start
 ```
-### İletişim
+
+<br>
+
+> → İletişim →  📩 :
 > alicanbayazit300@gmail.com
