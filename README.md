@@ -1,7 +1,5 @@
 # → Lokasyon Bazlı Hava Durumu Uygulaması ←
 
-> ### Proje Link 📎 → 
-
 <br>
 
 >↓ Uygulama İçi Görsel ↓ 🖼
