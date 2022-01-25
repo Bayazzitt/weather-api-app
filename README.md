@@ -6,7 +6,7 @@
 
 >↓ Uygulama İçi Görsel ↓ 🖼
 
-
+![Görsel](src/img/görüntü.png)
 
 <br>
 
